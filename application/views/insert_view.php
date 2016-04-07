@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Insert Data Into Database Using CodeIgniter Form</title>
+<title>Registration form</title>
 <link href='http://fonts.googleapis.com/css?family=Marcellus' rel='stylesheet' type='text/css'/>
 <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/style.css" />
 </head>
